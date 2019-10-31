@@ -12,6 +12,8 @@ mine came with 113520 Chemical 'A mk3' filter.
 
 ![113520 filter](113520-filter.jpg)
 
+I'm using it for laser cutting and it has now got so blocked that it needs replacing. The main problem appears to be the pre-filter but the charcoal pellets also look in a pretty used state.
+
 It appears to have a pre filter and then activated charcoal pellets.
 
 Closest I could find to a replacement was 113508
